@@ -1,3 +1,8 @@
+
+/* .my-class :global(.react-tweet-theme) {
+  --tweet-body-font-size: 12rem;
+} */
+
 .App {
   text-align: center;
 }
